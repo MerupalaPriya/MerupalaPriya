@@ -2,114 +2,128 @@
 
 <div align="center">
 
-# 🌸 Hi there, I'm Priya Merupala! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=25,26,27,30&text=Priya%20Merupala&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Data%20Analyst%20|%20AI%20Enthusiast&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Data+Analyst;AI+Enthusiast;Building+Solutions+with+Code+%F0%9F%92%96" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,F8BBD0,FFC0CB&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%8C%B8"/>
 
 </div>
 
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</p>
+
 ---
 
-## 💖 About Me
+# 🌷 About Me
 
 🎓 B.Tech Computer Science Student at **VIT Vellore**
 
-💻 Passionate about **Software Development, AI, and Data Analytics**
+💖 Passionate about Software Development, Artificial Intelligence, and Data Analytics.
 
-🌱 Always learning new technologies and building impactful projects
+🌱 Constantly learning and building projects that solve real-world problems.
 
-✨ Believer in turning ideas into reality through code
+✨ I enjoy blending creativity with technology to create impactful digital experiences.
 
 ---
 
-## 🌷 Tech Stack
+## 💻 Tech Stack
 
-### 👩‍💻 Languages
+### 🚀 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,postgresql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,postgresql"/>
 </p>
 
-### 🚀 Frameworks & Tools
+### ⚡ Frameworks & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,spring,flask,fastapi,git,github,vscode,figma,aws" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,spring,flask,fastapi,git,github,vscode,aws,figma"/>
 </p>
 
-### 📊 Data Science
+### 📊 Data Science & Analytics
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-FF69B4?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-FFC0CB?style=for-the-badge&logo=pandas&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/NumPy-FFB6C1?style=for-the-badge&logo=numpy&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PowerBI-FADADD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tableau-FFD1DC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-FFE4E1?style=for-the-badge"/>
+
 </p>
 
 ---
 
 # 💼 Experience
 
-### 🏢 Software Developer Intern
+## 🏢 Software Developer Intern
 
-**HPCL – Hindustan Petroleum Corporation Limited**
+**HPCL - Hindustan Petroleum Corporation Limited**
 
-✨ Built an AI-powered Medical Assistance Chatbot using TinyLlama and NLP.
+- 🤖 Built an AI-powered Medical Assistance Chatbot using TinyLlama.
+- 🧠 Applied NLP techniques for intelligent healthcare query handling.
 
 ---
 
-### 🤖 AI Project Development Intern
+## 🌱 AI Project Development Intern
 
 **AICTE TECHSAKSHAM | Microsoft & SAP**
 
-🌱 Developed an AI-powered Crop & Fertilizer Recommendation System using NLP.
+- 🌾 Developed an AI-powered Crop & Fertilizer Recommendation System.
+- 💬 Leveraged NLP for smart agricultural insights.
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280"/>
+</p>
 
 ---
 
 # 🌸 Featured Projects
 
-## 📦 UniWeb
+## 📦 UniWeb – Peer-to-Peer Delivery Marketplace
 
-🚚 Peer-to-peer delivery marketplace built with
+✨ React • Spring Boot • MySQL
 
-- React
-- Spring Boot
-- MySQL
-- Google OAuth2
-
----
-
-## 📈 Stock Market Forecasting
-
-📊 Flask-based application using
-
-- Neural Networks
-- yFinance
-- Chart.js
-- Time Series Forecasting
+- Secure Google OAuth2 Authentication
+- Transaction Management
+- Real-Time Notifications
 
 ---
 
-## 👤 Face Recognition System
+## 📈 Stock Market Forecasting Web App
 
-📸 Python + OpenCV
+📊 Flask • Neural Networks • yFinance • Chart.js
 
-- Haar Cascade
-- LBPH Algorithm
-- Real-time Recognition
+- Historical Data Analysis
+- Price Prediction
+- Interactive Dashboards
+- Investment Insights
 
 ---
 
-## 🤖 AI Database Management System
+## 👩‍💻 Real-Time Face Recognition System
 
-💬 Natural Language ➜ SQL
+📸 Python • OpenCV
 
-- FastAPI
-- PostgreSQL
-- LLM Integration
-- Streamlit Dashboard
+- Haar Cascade Detection
+- LBPH Recognition
+- Webcam-based Real-Time Identification
+
+---
+
+## 🤖 AI-Powered Database Management System
+
+💬 FastAPI • PostgreSQL • Streamlit • LLMs
+
+- Natural Language ➜ SQL
+- Automated Query Generation
+- Interactive Monitoring Dashboard
 
 ---
 
@@ -121,19 +135,19 @@
 
 ---
 
-# 🌺 Leadership
+# 🎨 Leadership
 
-🎨 **Design Head – Technical Domain**
+### 💖 Design Head – Technical Domain
 
-SAHITI TLA Club, VIT
+**SAHITI TLA Club | VIT Vellore**
 
-- UI/UX Development
+- UI/UX Design
+- Creative Leadership
 - Team Collaboration
-- Technical Design Leadership
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -142,10 +156,6 @@ SAHITI TLA Club, VIT
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -159,16 +169,16 @@ SAHITI TLA Club, VIT
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:priyamerupala@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-F48FB1?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </p>
@@ -177,22 +187,10 @@ SAHITI TLA Club, VIT
 
 <div align="center">
 
-### 💕 "Code with passion, create with purpose."
+## 🌸 Thanks for Visiting! 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,F8BBD0,FFC0CB&height=120&section=footer"/>
+*"Dream • Design • Develop • Deliver"* 💕
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=25,26,27,30"/>
 
 </div>
-<!--
-**MerupalaPriya/MerupalaPriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
